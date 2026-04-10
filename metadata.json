@@ -1,0 +1,5 @@
+{
+  "name": "PropertyBot Automation Studio",
+  "description": "A centralized workspace for managing real-time automation progress, uploads, and failed tasks.",
+  "requestFramePermissions": []
+}
